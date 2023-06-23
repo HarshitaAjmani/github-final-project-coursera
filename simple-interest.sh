@@ -6,7 +6,7 @@
    
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # HarshitaAjmani
+   # Harshita Ajmani
    # Input:
    # p, principal amount
    # t, time period in years
